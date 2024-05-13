@@ -1,5 +1,5 @@
-# Jasmine Moore's portfolio
+# Jasmine Moore's Portfolio
 
-Writing examples
+[Writing Samples](url)
 
-Data Analysis/Visualization
+[Data Analysis/Visualization](url)
