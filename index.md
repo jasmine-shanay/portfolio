@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## **Welcome to my virtual portfolio!**
+### **Welcome to my virtual portfolio!**
 
 ### Summary About Me
 
