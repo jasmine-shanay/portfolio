@@ -37,3 +37,5 @@ The following links are to pieces that I wrote for my university newspaper. My a
 
 [The Greatest Threat (Posted October 7, 2014)](https://web.archive.org/web/20141012112707/http:/www.panthernewsnetwork.com/top-stories/2014/10/07/the-greatest-threat/)
 *  There has been an ongoing debate about whether or not vaccines are a good idea or are even safe. There are many concerns about what they actually are, and often it is misunderstanding that prevents people from getting vaccinations. In this article, the intent and process of vaccines will hopefully become clear, and there will be a better understanding of why vaccines are good for both individuals and entire populations as we head straight into flu season.
+
+[back](./)
