@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Jasmine Moore
+permalink: /portfolio/
 ---
 
 ## Welcome!
