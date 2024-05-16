@@ -19,7 +19,7 @@ Here is a copy of my [CV](url) (_Current as of May 2024_)
 
 | Data Skill Certificate | Company | Link |
 |:-------|:--------|:-----|
-| Data Science 4 All Fellowship | Correlation One | [Written Report](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:bbc3e7a2-3153-31e0-aa51-414ec5bf3fc1)|
+| Data Science 4 All Fellowship | Correlation One | [Written Report](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:bbc3e7a2-3153-31e0-aa51-414ec5bf3fc1) and [Honors Certificate](https://www.credential.net/1413bc3f-9fd6-42a6-b06a-0c6f0c48ad10#gs.8x47o7)|
 | Analyzing and Visualizing Data in `Looker` | Google Cloud Training | [Link]()
 | Analyze Survey Data with `Tableau` | Coursera | [Link]()
 | COVID-19 Data Analysis Using `Python` | Coursera | [Link]() 
