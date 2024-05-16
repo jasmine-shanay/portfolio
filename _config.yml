@@ -4,5 +4,6 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 github:
+  repository_url: repoexample.com/download
   zip_url: http://example.com/download.zip
   another_url: another value
