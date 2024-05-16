@@ -14,11 +14,12 @@ description: Jasmine Moore's Portfolio
 
 ## Data Science Programs
 
-| Course Name	| Company	| Link |
+| Course Name	| Company	| Certificate/Dashboard |
 |---|---|---|
-| Analyzing and Visualizing Data in Looker	| Google Cloud | Training	| [Link](url) |
-| Analyze Survey Data with Tableau | Coursera	| Link |
-| COVID-19 Data Analysis Using Python	| Coursera	| Link |
-| Create a Sales Dashboard Using Power BI	| Coursera	| Link |
-| Machine Learning for Kyphosis Disease Classification	| Coursera	| Link |
-| Manipulating Data with SQL | Coursera	| Link |
+| Analyzing and Visualizing Data in Looker	| Google Cloud Training	| [Certificate](https://coursera.org/share/d45931ce03106b870d9694326d193277) |
+| Analyze Survey Data with Tableau | Coursera	| [Certificate](https://coursera.org/share/fa70ae8a9cc33cd22f69d5854881a7fe) |
+| COVID-19 Data Analysis Using Python	| Coursera | [Certificate](https://coursera.org/share/4a2128b2560eba63648f41aa068fabf1) and [Dashboard](url) |
+| Create a Sales Dashboard Using Power BI	| Coursera	| [Certificate](https://coursera.org/share/9db7b2270c90ff51eadb134d89d38315) and [Dashboard](url) |
+| Machine Learning for Kyphosis Disease Classification	| Coursera	| [Certificate](https://coursera.org/share/d17c1545e6fc6b13d0d105600479df85) and [Dashboard](url) |
+| Understanding Basic SQL Syntax | Coursera | [Link](https://coursera.org/share/524cfc5ad56db01238048debf6cb4be7) | 
+| Manipulating Data with SQL | Coursera	| [Link](https://coursera.org/share/404c18a5bc0bdb10a51f3f7755d1e831) |
