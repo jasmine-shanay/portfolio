@@ -2,9 +2,9 @@
 layout: default
 ---
 
-### **Welcome to my virtual portfolio!**
 
-### Summary About Me
+ 
+### Welcome to my virtual portfolio!
 
 I am a freelance medical writer with 10+ years of experience in scientific research, coding, and data visualization techniques. Here are a few of my accomplishments:
 - Earned a data science fellowship—an award given to 6% of applicants.
