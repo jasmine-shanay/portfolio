@@ -4,11 +4,11 @@ title: Data Analysis and Visualization Projects
 description: Jasmine Moore's Portfolio
 ---
 
-## Data Science Fellowship
+## Data Science For All / Empowerment Fellowship
+- Issued by _Correlation One_
+- 6% acceptance rate
 
-_Data Science 4 All_ by _Correlation One_
-
-[Data Science for All Project](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:bbc3e7a2-3153-31e0-aa51-414ec5bf3fc1) 
+[Data Science for All Project](https://www.credential.net/1413bc3f-9fd6-42a6-b06a-0c6f0c48ad10#gs.8x47o7)
 
 - This is a report that I wrote as the final deliverable in my Data Science for All certificate program. I received an honors certificate upon the program's completion.
 
@@ -22,5 +22,3 @@ _Data Science 4 All_ by _Correlation One_
 | Create a Sales Dashboard Using Power BI	| Coursera	| Link |
 | Machine Learning for Kyphosis Disease Classification	| Coursera	| Link |
 | Manipulating Data with SQL | Coursera	| Link |
-
-[back](./)
