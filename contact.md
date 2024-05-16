@@ -12,6 +12,3 @@ description: Jasmine Moore's Portfolio
 
 Interested employers can contact me on job sites:
 - [Indeed Profile](https://profile.indeed.com/p/jasminem-zrzggdb)
-
-
-[back](./)
