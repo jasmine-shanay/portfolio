@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Jasmine Moore
-permalink: /portfolio/index.md/
 ---
 
 ## Welcome to my professional portfolio!
