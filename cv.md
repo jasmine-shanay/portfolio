@@ -26,5 +26,3 @@ Here is a copy of my [CV](url) (_Current as of May 2024_)
 | Create a Sales Dashboard Using `Power BI` | Coursera | [Link]()  
 | `Machine Learning` for Kyphosis Disease Classification | Coursera | [Link]() 
 | Manipulating Data with `SQL` | Coursera | [Link]() 
-
-[back](./)
