@@ -5,7 +5,8 @@ google_analytics:
 theme: jekyll-theme-cayman
 github:
   repository_url: http://jasmine-shanay.github.io/Cayman-theme/
-  writing_url: https://jasmine-shanay.github.io/jasminemoore/writing/
-  zip_url: http://example.com/download.zip
-  tar_url: https://jasmine-shanay.github.io/Cayman-theme/another-page.html
+  cv_url: http://jasmine-shanay.github.io/Cayman-theme/cv
+  writing_url: http://jasmine-shanay.github.io/Cayman-theme/writing
+  data_url: http://jasmine-shanay.github.io/Cayman-theme/data
   contact_url: https://jasmine-shanay.github.io/Cayman-theme/contact
+  tar_url: https://jasmine-shanay.github.io/Cayman-theme/another-page
