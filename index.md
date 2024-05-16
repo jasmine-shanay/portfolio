@@ -1,12 +1,9 @@
 ---
 layout: default
 title: Jasmine Moore
-permalink: /portfolio/
 ---
 
-## Welcome!
-
-## This is my professional portfolio. A little bit about me:
+## Welcome to my professional portfolio!
 
 I am a freelance medical writer with 10+ years of experience in scientific research, coding, and data visualization techniques. Here are a few of my accomplishments:
 - Earned a data science fellowship—an award given to 6% of applicants.
