@@ -4,10 +4,10 @@ title: Data Analysis and Visualization Projects
 description: Jasmine Moore's Portfolio
 ---
 
-## Data Science For All (DS4A)/ Empowerment Fellowship
+## Data Science For All (DS4A) / Empowerment Fellowship
 - Issued by _Correlation One_
 - 6% acceptance rate
-- Received an honors certificate upon the program's completion
+- Received an honors certificate due to excellence in completing project assignments
 - Deliverables:
   - [Data Science for All Honors Certificate](https://www.credential.net/1413bc3f-9fd6-42a6-b06a-0c6f0c48ad10#gs.8x47o7)
   - [Written Report](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:bbc3e7a2-3153-31e0-aa51-414ec5bf3fc1)
