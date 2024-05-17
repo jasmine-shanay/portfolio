@@ -8,14 +8,11 @@ $header-bg-color: #159957 !default;
 $header-bg-color-secondary: #603e9c !default; // Original HEX was #155799 (blue). Changed to #603e9c (purple)
 
 // Text
-h2 {
-  color: #159957;
-}
-h3 {
-  color: #603e9c;
-}
-
-//$section-headings-color: #159957 !default; 
+$section-headings-color: #159957 !default; 
+//$h2:                         #159957;
+$h3:                         #603e9c;
+//$h4:                         #159957;
+//$success:                         $green;
 //$section-headings-color-secondary: #603e9c !default; // Added line. Are secondary sections changed to purple?
 $body-text-color: #606c71 !default;
 $body-link-color: #1e6bb8 !default;
