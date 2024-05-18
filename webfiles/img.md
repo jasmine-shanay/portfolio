@@ -15,35 +15,35 @@ description: Jasmine Moore's Portfolio
 
 ***
 
-#### COVID-19 Analysis Using Python
+### COVID-19 Analysis Using Python
 
   - Jupyter Notebook
     - [Download](COVID_Python_Analysis.ipynb)
     - View on [nbviewer](https://nbviewer.org/github/jasmine-shanay/portfolio/blob/5b6460d7fc38d80bbf2e1b83e99fd792b2619783/webfiles/COVID_Python_Analysis.ipynb).
 
-#### Machine Learning for Kyphosis Disease Classification
+### Machine Learning for Kyphosis Disease Classification
 
   - Jupyter Notebook
     - [Download](Machine_Learning_Kyphosis.ipynb)
     - View on [nbviewer](https://nbviewer.org/github/jasmine-shanay/portfolio/blob/5b6460d7fc38d80bbf2e1b83e99fd792b2619783/webfiles/Machine_Learning_Kyphosis.ipynb)
 
-#### Create a Sales Dashboard Using Power BI
+### Create a Sales Dashboard Using Power BI
 
   - [Download Power BI notebook](Sales_Dashboard_2.pbix)
   - View [dashboard (PDF)](Sales_Dashboard_2.pdf) 
 
-#### Analyze Survey Data with Tableau
+### Analyze Survey Data with Tableau
 
   - [Download Tableau workbook](Tableau_Survey_Data_Analysis.twbx)
   - View [dashboard (PDF)](Tableau_Survey_Charts.pdf)
 
-#### Analyzing and Visualizing Data in Looker
+### Analyzing and Visualizing Data in Looker
 
   - Jupyter Notebook
     - [Download](Looker_Data_Analysis_Visualization.ipynb)
     - View on [nbviewer](https://nbviewer.org/github/jasmine-shanay/portfolio/blob/main/webfiles/Looker_Data_Analysis_Visualization.ipynb)
 
-#### Data Science For All Fellowship
+### Data Science For All Fellowship
 
   - [Written report (PDF)](Team56_Report.pdf)
   - Jupyter Notebook
