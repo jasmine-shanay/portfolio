@@ -16,14 +16,14 @@ You can navigate my portfolio by clicking the buttons above or the links in the 
 
 ## Portfolio Contents
 
-- [Writing Samples](https://jasmine-shanay.github.io/portfolio/writing)
+- [Writing Samples](webpages/writing.md)
   - Recent Pieces
   - Abstracts and Proposals
   - University Articles (Old)
-- [Data Analysis/Visualization Projects](https://jasmine-shanay.github.io/portfolio/data)
+- [Data Analysis/Visualization Projects](webpages/data.md)
   - DS4A Honors Fellowship
   - Data Science Courses
-- [Professional History and Skills](https://jasmine-shanay.github.io/portfolio/cv)
+- [Professional History and Skills](webpages/cv.md)
   - Curriculum Vitae
   - Certificates and Acquired Skills
-- [Contact Information](https://jasmine-shanay.github.io/portfolio/contact)
+- [Contact Information](webpages/contact.md)
