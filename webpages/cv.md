@@ -5,6 +5,13 @@ description: Jasmine Moore's Portfolio
 <!--permalink: /portfolio/cv/-->
 ---
 
+## Contents
+  - [Curriculum Vitae](http://jasmine-shanay.github.io/portfolio/webpages/cv#curriculum-vitae)
+  - [Skills](http://jasmine-shanay.github.io/portfolio/webpages/cv#skills)
+    - [Work Experiences](http://jasmine-shanay.github.io/portfolio/webpages/cv#work-experiences)
+    - [Regulatory and Medical Writing](http://jasmine-shanay.github.io/portfolio/webpages/cv#regulatory-and-medical-writing)
+    - [Data Analysis and Visualization](http://jasmine-shanay.github.io/portfolio/webpages/cv#data-analysis-and-visualization)
+
 ## Curriculum Vitae
 Here is a copy of my [CV](https://acrobat.adobe.com/id/urn:aaid:sc:US:214a39eb-ef50-48c4-8c36-3543620bc554) 
 (_Current as of May 2024_).
@@ -26,7 +33,7 @@ List of positions and achievements that provided specific `skills` gained from o
 | Grant Team Chair | Led a group of 60 students to review grant proposals. Managed grant process and applicant readability.| `Leadership`, `Grant Management`, `Informational Documentation`, `User Accessibility`, `Website Management`|
 | Undergraduate Researcher | Completed research projects in microbiology and computational chemistry courses.| `Computational Chemistry`, `Python`, `Carter Supercomputer`, `Protein Folding`, `Molecular Cloning`, `Gene Expression`, `Protein Purification`, `Western Blot`|
 
-#### Regulatory/Medical Writing
+#### Regulatory and Medical Writing
 
 |Course|Company|Link|
 |:-------|:--------|:-----|
