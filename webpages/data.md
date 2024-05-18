@@ -4,9 +4,7 @@ title: Data Analysis and Visualization Projects
 description: Jasmine Moore's Portfolio
 ---
 
-# Test
-
-[COVID-19](https://jasmine-shanay.github.io/portfolio/webfiles/img#covid-19-analysis-using-python/)
+<!--[COVID-19](https://jasmine-shanay.github.io/portfolio/webfiles/img#covid-19-analysis-using-python/)-->
 
 ## Data Science For All (DS4A) / Empowerment Fellowship
 - Issued by _Correlation One_
