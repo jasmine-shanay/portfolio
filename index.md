@@ -23,8 +23,12 @@ You can navigate my portfolio by clicking the buttons above or the links in the 
   - University Articles (Old)
 - [Data Analysis/Visualization Projects](webpages/data.md)
   - DS4A Honors Fellowship
+    - Skills Gained
   - Data Science Courses
 - [Professional History and Skills](webpages/cv.md)
   - Curriculum Vitae
-  - Certificates and Acquired Skills
+  - Skills
+    - Work Experiences
+    - Regulatory/Medical Writing
+    - Data Analysis and Visualization
 - [Contact Information](webpages/contact.md)
