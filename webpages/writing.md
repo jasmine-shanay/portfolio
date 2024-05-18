@@ -15,6 +15,12 @@ description: Jasmine Moore's Portfolio
 *  An edited version of an article I wrote for my university newspaper, the Panther News Network.
 *  The original version is in the [University Articles](#university-articles) section.
 
+## Technical Documents
+
+[Informational Grant Packet](http://jasmine-shanay.github.io/portfolio/webfiles/Grant_Packet.pdf)
+* A collection of application instructions for university grants.
+* Designed packet while volunteering as the chair of a grant review and allocation committee.
+
 ## Abstracts and Proposals
 
 [ASV 2020 Abstract](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:2e516f86-7780-3547-a654-dec4d9d2f6cd)
