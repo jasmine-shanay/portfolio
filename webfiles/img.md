@@ -1,3 +1,8 @@
+---
+layout: default
+title: Files and Images
+description: Jasmine Moore's Portfolio
+---
 
 ## Table of Contents
 
