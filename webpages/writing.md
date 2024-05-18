@@ -4,6 +4,11 @@ title: Writing Samples
 description: Jasmine Moore's Portfolio
 <!--permalink: /portfolio/writing/-->
 ---
+## Contents
+  - [Recent Samples](http://jasmine-shanay.github.io/portfolio/webpages/writing#recent-samples)
+  - [Technical Documents](http://jasmine-shanay.github.io/portfolio/webpages/writing#technical-documents)
+  - [Abstracts and Proposals](http://jasmine-shanay.github.io/portfolio/webpages/writing#abstracts-and-proposals)
+  - [University Articles (Old)](http://jasmine-shanay.github.io/portfolio/webpages/writing#university-articles)
 
 ## Recent Samples
 
