@@ -6,12 +6,12 @@ description: Jasmine Moore's Portfolio
 
 <!--[COVID-19](https://jasmine-shanay.github.io/portfolio/webfiles/img#covid-19-analysis-using-python/)-->
 ## Contents
-  - [DS4A Honors Fellowship](http://jasmine-shanay.github.io/portfolio/webpages/data#ds4a-honors-fellowship)
+  - [DS4A Honors Fellowship](http://jasmine-shanay.github.io/portfolio/webpages/data#data-science-fellowship)
     - [Skills Gained](http://jasmine-shanay.github.io/portfolio/webpages/data#skills-gained-during-fellowship)
   - [Data Science Projects](http://jasmine-shanay.github.io/portfolio/webpages/data#data-analysis-and-visualization-projects)
 
-## Data Science For All (DS4A) / Empowerment Fellowship
-- Issued by _Correlation One_
+## Data Science Fellowship
+- Data Science For All (DS4A) / Empowerment Honors Fellowship, issued by _Correlation One_
 - 6% acceptance rate
 - Received [honors certification](https://www.credential.net/1413bc3f-9fd6-42a6-b06a-0c6f0c48ad10#gs.8x47o7) due to excellence in completing assignments
 - Deliverables:
