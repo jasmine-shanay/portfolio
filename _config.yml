@@ -4,7 +4,7 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 github:
-  repository_url: http://jasmine-shanay.github.io/portfolio/webpages/
+  repository_url: http://jasmine-shanay.github.io/portfolio/
   cv_url: http://jasmine-shanay.github.io/portfolio//webpages/cv
   writing_url: http://jasmine-shanay.github.io/portfolio/webpages//writing
   data_url: http://jasmine-shanay.github.io/portfolio/webpages//data
