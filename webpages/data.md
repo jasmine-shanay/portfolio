@@ -5,6 +5,10 @@ description: Jasmine Moore's Portfolio
 ---
 
 <!--[COVID-19](https://jasmine-shanay.github.io/portfolio/webfiles/img#covid-19-analysis-using-python/)-->
+## Contents
+  - [DS4A Honors Fellowship](http://jasmine-shanay.github.io/portfolio/webpages/data#ds4a-honors-fellowship)
+    - [Skills Gained](http://jasmine-shanay.github.io/portfolio/webpages/data#skills-gained-during-fellowship)
+  - [Data Science Projects](http://jasmine-shanay.github.io/portfolio/webpages/data#data-analysis-and-visualization-projects)
 
 ## Data Science For All (DS4A) / Empowerment Fellowship
 - Issued by _Correlation One_
@@ -14,8 +18,8 @@ description: Jasmine Moore's Portfolio
   - [Written Report](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:bbc3e7a2-3153-31e0-aa51-414ec5bf3fc1)
   - [Plotly Dashboard](https://chart-studio.plotly.com/~jasmineshanay/39/dashboard/)
 
-#### DS4A Skills/Knowledge Gained During Fellowship:
-`Python`, `Pandas`, `Numpy`, `Plotly`, `Scikit`, `matplotlib`, `Seaborn`, `SQL`, `Tableau`, `PowerBI`, `Jupyter`, `Docker`, `Data Analysis`, `Data Visualization`, `Linear Modeling`, `Data Science`, `Regression`, `Statistics`, `Business Intelligence`, `Data Extraction`, `Data transformation`, `Interpretation of Charts`, `Graphs`, `Tables`, `Information Gathering & Sufficiency`, `Hypothesis Testing`, `Statistical Inference`, `A/B Testing`
+  #### Skills Gained During Fellowship:
+  `Python`, `Pandas`, `Numpy`, `Plotly`, `Scikit`, `matplotlib`, `Seaborn`, `SQL`, `Tableau`, `PowerBI`, `Jupyter`, `Docker`, `Data Analysis`, `Data Visualization`, `Linear Modeling`, `Data Science`, `Regression`, `Statistics`, `Business Intelligence`, `Data Extraction`, `Data transformation`, `Interpretation of Charts`, `Graphs`, `Tables`, `Information Gathering & Sufficiency`, `Hypothesis Testing`, `Statistical Inference`, `A/B Testing`
 
 ## Data Analysis and Visualization Projects
 
