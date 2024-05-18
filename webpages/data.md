@@ -6,7 +6,7 @@ description: Jasmine Moore's Portfolio
 
 <!--[COVID-19](https://jasmine-shanay.github.io/portfolio/webfiles/img#covid-19-analysis-using-python/)-->
 ## Contents
-  - [DS4A Honors Fellowship](http://jasmine-shanay.github.io/portfolio/webpages/data#data-science-fellowship/)
+  - [DS4A Honors Fellowship](http://jasmine-shanay.github.io/portfolio/webpages/data#data-science-fellowship)
     - [Skills Gained](http://jasmine-shanay.github.io/portfolio/webpages/data#skills-gained-during-fellowship)
   - [Data Science Projects](http://jasmine-shanay.github.io/portfolio/webpages/data#data-analysis-and-visualization-projects)
 
