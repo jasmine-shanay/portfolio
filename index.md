@@ -17,7 +17,8 @@ You can navigate my portfolio by clicking the buttons above or the links in the 
 ## Portfolio Contents
 
 - [Writing Samples](webpages/writing.md)
-  - Recent Pieces
+  - Recent Samples
+  - Technical Documents
   - Abstracts and Proposals
   - University Articles (Old)
 - [Data Analysis/Visualization Projects](webpages/data.md)
