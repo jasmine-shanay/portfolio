@@ -11,7 +11,7 @@ Here is a copy of my [CV](https://acrobat.adobe.com/id/urn:aaid:sc:US:214a39eb-e
 
 ## Skills
 
-#### Regulatory/Medical Writing
+### Regulatory/Medical Writing
 
 |Course|Company|Link|
 |:-------|:--------|:-----|
@@ -20,7 +20,7 @@ Here is a copy of my [CV](https://acrobat.adobe.com/id/urn:aaid:sc:US:214a39eb-e
 | ORAQ `Regulatory Affairs` Training Program|Duke University School of Medicine|[Certificate](https://acrobat.adobe.com/id/urn:aaid:sc:us:a300c452-464a-42f9-a907-2332302ae062)|
 | Principles of `Clinical Pharmacology`|The National Institutes of Health|[Certificate](https://acrobat.adobe.com/id/urn:aaid:sc:US:01078a0b-9171-4c30-a9e0-d8ba49d023fc)|
 
-#### Data Analysis and Visualization
+### Data Analysis and Visualization
 
 |Course|Company|Links|Skills|
 |:----|:----|:----|:----|
@@ -34,7 +34,7 @@ Here is a copy of my [CV](https://acrobat.adobe.com/id/urn:aaid:sc:US:214a39eb-e
 | Manipulating Data with SQL|Coursera|[Certificate](https://coursera.org/share/404c18a5bc0bdb10a51f3f7755d1e831)| `SQL Commands`, `Data Manipulation`, `Relational Database`, `SQLiteStudio`, `Data Management`|
 | Effect of the Order of Amino Acids in a Small Peptide | Purdue University|[Poster](https://c1-connect.com/profile/jasmine-moore/projects/491427d5-16c7-491f-b45d-84a7886ece4a)| `Computational Chemistry`, `Python`, `Carter Supercomputer`, `Amber Suite`, `Gaussian09`, `B3LYP-DCP`, `Jmol`, `ChemBio3D`, `Protein Folding`, `Dipeptide Dispersion Interactions`|
 
-## Work History Skills
+### Work History Skills
 
 |Professional Position|Experience Description|Skills|
 |:----|:----|:----|
