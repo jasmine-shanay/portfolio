@@ -12,34 +12,36 @@
 
 #### COVID-19 Analysis Using Python
 
-  ![Download Jupyter Notebook](COVID_Python_Analysis.ipynb) or view on [nbviewer](https://nbviewer.org/github/jasmine-shanay/portfolio/blob/5b6460d7fc38d80bbf2e1b83e99fd792b2619783/webfiles/COVID_Python_Analysis.ipynb).
+  - Jupyter Notebook
+    - [Download](COVID_Python_Analysis.ipynb)
+    - View on [nbviewer](https://nbviewer.org/github/jasmine-shanay/portfolio/blob/5b6460d7fc38d80bbf2e1b83e99fd792b2619783/webfiles/COVID_Python_Analysis.ipynb).
 
 #### Machine Learning for Kyphosis Disease Classification
 
-  ![Download Jupyter Notebook](Machine_Learning_Kyphosis.ipynb) or view on [nbviewer](https://nbviewer.org/github/jasmine-shanay/portfolio/blob/5b6460d7fc38d80bbf2e1b83e99fd792b2619783/webfiles/Machine_Learning_Kyphosis.ipynb).
-
-        Machine_Learning_Kyphosis.ipynb
+  - Jupyter Notebook
+    - [Download](Machine_Learning_Kyphosis.ipynb)
+    - View on [nbviewer](https://nbviewer.org/github/jasmine-shanay/portfolio/blob/5b6460d7fc38d80bbf2e1b83e99fd792b2619783/webfiles/Machine_Learning_Kyphosis.ipynb)
 
 #### Create a Sales Dashboard Using Power BI
 
-  ![Download Power BI notebook](Sales_Dashboard_2.pbix) 
-
-  ![PDF](Sales_Dashboard_2.pdf) 
+  - [Download Power BI notebook](Sales_Dashboard_2.pbix)
+  - View [dashboard (PDF)](Sales_Dashboard_2.pdf) 
 
 #### Analyze Survey Data with Tableau
 
-  ![Download Tableau workbook](Tableau_Survey_Data_Analysis.twbx)
-
-  ![PDF](Tableau_Survey_Charts.pdf)
+  - [Download Tableau workbook](Tableau_Survey_Data_Analysis.twbx)
+  - View [dashboard (PDF)](Tableau_Survey_Charts.pdf)
 
 #### Analyzing and Visualizing Data in Looker
 
-  ![Download Jupyter Notebook](Looker_Data_Analysis_Visualization.ipynb)
+  - Jupyter Notebook
+    - [Download](Looker_Data_Analysis_Visualization.ipynb)
+    - View on [nbviewer](https://nbviewer.org/github/jasmine-shanay/portfolio/blob/main/webfiles/Looker_Data_Analysis_Visualization.ipynb)
 
 #### Data Science For All Fellowship
 
-  ![Written report](Team56_Report.pdf) or view on [nbviewer](https://nbviewer.org/github/jasmine-shanay/portfolio/blob/main/webfiles/Looker_Data_Analysis_Visualization.ipynb).
-
-  ![Download Jupyter Notebook](Team56_Final.ipynb) or view on [nbviewer](https://nbviewer.org/github/jasmine-shanay/portfolio/blob/b5b679d9405d6e6cae317f0911e35cad7d033634/webfiles/Team56_Final.ipynb).
-
-  ![Plotly Dashboard](https://chart-studio.plotly.com/~jasmineshanay/39/dashboard/)
+  - [Written report (PDF)](Team56_Report.pdf)
+  - Jupyter Notebook
+    - [Download](Team56_Final.ipynb)
+    - View on [nbviewer](https://nbviewer.org/github/jasmine-shanay/portfolio/blob/b5b679d9405d6e6cae317f0911e35cad7d033634/webfiles/Team56_Final.ipynb)
+  - [Plotly Dashboard](https://chart-studio.plotly.com/~jasmineshanay/39/dashboard/)
