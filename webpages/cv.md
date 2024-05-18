@@ -10,7 +10,10 @@ Here is a copy of my [CV](https://acrobat.adobe.com/id/urn:aaid:sc:US:214a39eb-e
 (_Current as of May 2024_).
 
 ## Skills
-List of achievements and experiences I've held that used specific `skills`.
+List of positions and achievements that provided specific `skills` gained from opportunities in:
+  - Work experiences
+  - Medical writing
+  - Data analysis and visualization
 
 #### Work History
 
