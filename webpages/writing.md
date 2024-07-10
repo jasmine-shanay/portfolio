@@ -6,7 +6,7 @@ description: Jasmine Moore's Portfolio
 ---
 ## Contents
   - [Recent Samples](http://jasmine-shanay.github.io/portfolio/webpages/writing#recent-samples)
-  - [Technical Documents](http://jasmine-shanay.github.io/portfolio/webpages/writing#technical-documents)
+  - [Technical Documents](http://jasmine-shanay.github.io/portfolio/webpages/writing#instructional-documents)
   - [Abstracts and Proposals](http://jasmine-shanay.github.io/portfolio/webpages/writing#abstracts-and-proposals)
   - [University Articles (Old)](http://jasmine-shanay.github.io/portfolio/webpages/writing#university-articles)
 
@@ -28,7 +28,7 @@ description: Jasmine Moore's Portfolio
 *  An edited version of an article I wrote for my university newspaper, the Panther News Network.
 *  The original version is in the [University Articles](#university-articles) section.
 
-## Technical Documents
+## Instructional Documents
 
 [Informational Grant Packet](http://jasmine-shanay.github.io/portfolio/webfiles/Grant_Packet.pdf)
 * A collection of application instructions for university grants.
