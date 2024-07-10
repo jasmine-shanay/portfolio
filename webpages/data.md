@@ -26,6 +26,7 @@ description: Jasmine Moore's Portfolio
 - Deliverables:
   - [Written Report](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:bbc3e7a2-3153-31e0-aa51-414ec5bf3fc1)
   - [Plotly Dashboard](https://chart-studio.plotly.com/~jasmineshanay/39/dashboard/)
+
   #### Skills Gained During Fellowship:
   `Python`, `Pandas`, `Numpy`, `Plotly`, `Scikit`, `matplotlib`, `Seaborn`, `SQL`, `Tableau`, `PowerBI`, `Jupyter`, `Docker`, `Data Analysis`, `Data Visualization`, `Linear Modeling`, `Data Science`, `Regression`, `Statistics`, `Business Intelligence`, `Data Extraction`, `Data transformation`, `Interpretation of Charts`, `Graphs`, `Tables`, `Information Gathering & Sufficiency`, `Hypothesis Testing`, `Statistical Inference`, `A/B Testing`
 
@@ -33,7 +34,8 @@ description: Jasmine Moore's Portfolio
 - Created new metrics and built visualizations and dashboards for data-driven decision-making.
 - Issued by Google Cloud and Coursera
 - [Certificate](https://coursera.org/share/d45931ce03106b870d9694326d193277)
-  #### Skills Gained:
+
+  #### Skills Gained During Fellowship:
   `Looker`, `Google Cloud`, `Data Analysis Building Blocks`, `Pivoting Data`, `Looks`, `Dashboards`
   
 ## Analyze Survey Data with Tableau 
@@ -43,7 +45,8 @@ description: Jasmine Moore's Portfolio
   - [Certificate](https://coursera.org/share/fa70ae8a9cc33cd22f69d5854881a7fe)
   - [Dashboard PDF](http://github.com/jasmine-shanay/portfolio/webfiles/Tableau_Survey_Charts.pdf)
   - [Tableau Workbook](http://github.com/jasmine-shanay/portfolio/webfiles/Tableau_Survey_Data_Analysis.twbx)
-  #### Skills Gained:
+ 
+  #### Skills Gained During Fellowship:
   `Tableau`, `Information Visualization (INFOVIS)`, `Market Research`, `Data Analysis`, `Data Visualization`, `Qualitative Research`
 
 ## COVID-19 Data Analysis Using Python
@@ -52,7 +55,8 @@ description: Jasmine Moore's Portfolio
 - Deliverables:
   - [Certificate](https://coursera.org/share/4a2128b2560eba63648f41aa068fabf1)
   - [Dashboard](http://github.com/jasmine-shanay/portfolio/webfiles/COVID_Python_Analysis.ipynb)
-  #### Skills Gained:
+
+  #### Skills Gained During Fellowship:
   `Python Programming`, `Seaborn`, `Statistics`, `Data Analysis`, `Pandas`
 
 ## Create a Sales Dashboard Using Power BI
@@ -62,7 +66,8 @@ description: Jasmine Moore's Portfolio
   - [Certificate](https://coursera.org/share/9db7b2270c90ff51eadb134d89d38315)
   - [Dashboard PDF](http://github.com/jasmine-shanay/portfolio/webfiles/Sales_Dashboard_2.pdf)
   - [Interactive Dashboard](../webfiles/Sales_Dashboard_2.pbix)
-  #### Skills Gained:
+
+  #### Skills Gained During Fellowship:
   `Business Intelligence`, `Microsoft Power BI`, `Sales Dashboard`, `Data Visualization`, `Interactive Maps`
 
 ## Developing Data Models with LookML
@@ -71,8 +76,9 @@ description: Jasmine Moore's Portfolio
 - Issued by Google Cloud
 - Deliverables:
   - [Certificate](https://coursera.org/share/a50bd88f34ad1108f6732eaa1318b07e)
-  #### Skills Gained:
-   `Business Intelligence`, `Business Dashboards`, `Data Visualization`, `Derived Looker tables`, `LookML`
+
+  #### Skills Gained During Fellowship:
+  `Business Intelligence`, `Business Dashboards`, `Data Visualization`, `Derived Looker tables`, `LookML`
 
 ## Exploring Data Transformation with Google Cloud
 - Explored Google Cloud data management products and solutions.
@@ -80,7 +86,8 @@ description: Jasmine Moore's Portfolio
 - Issued by Google Cloud
 - Deliverables:
   - [Certificate](https://coursera.org/share/a086edef99e51fd5b837dc10b617777f)
-  #### Skills Gained:
+
+  #### Skills Gained During Fellowship:
   `Google Cloud`, `Data Management Solutions`, `Business Intelligence`, `Business Insights`, `Looker`, `Data Storage`, `Pub/Sub`, `Dataflow`
 
 ## Machine Learning for Kyphosis Disease Classification
@@ -90,7 +97,8 @@ description: Jasmine Moore's Portfolio
 - Deliverables:
   - [Certificate](https://coursera.org/share/d17c1545e6fc6b13d0d105600479df85)
   - [Notebook](http://github.com/jasmine-shanay/portfolio/webfiles/Machine_Learning_Kyphosis.ipynb)
-  #### Skills Gained:
+
+  #### Skills Gained During Fellowship:
   `Machine Learning`, `Data Science`, `Python Programming`, `Statistical Classification`, `Logistic Regression`, `Random Forest Algorithm`, `Patient Data`
 
 ## Manipulating Data with SQL
@@ -98,7 +106,8 @@ description: Jasmine Moore's Portfolio
 - Issued by Coursera
 - Deliverables:
   - [Certificate](https://coursera.org/share/404c18a5bc0bdb10a51f3f7755d1e831)
-   #### Skills Gained:
+
+  #### Skills Gained During Fellowship:
   `SQL`, `Relational Tables`, `Troubleshooting`
   
 ## Understanding Basic SQL Syntax
@@ -106,5 +115,6 @@ description: Jasmine Moore's Portfolio
 - Issued by Coursera
 - Deliverables:
   - [Certificate](https://coursera.org/share/524cfc5ad56db01238048debf6cb4be7)
-   #### Skills Gained:
+
+  #### Skills Gained During Fellowship:
   `SQL`, `SQLite`, `Retrieval Queries`, `Syntax`
