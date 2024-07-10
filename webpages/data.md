@@ -33,6 +33,7 @@ description: Jasmine Moore's Portfolio
   `Looker`, `Google Cloud`, `Data Analysis Building Blocks`, `Pivoting Data`, `Looks`, `Dashboards`
   
 ## Analyze Survey Data with Tableau 
+- Transformed market research data into meaningful insights using information visualization techniques.
 - Issued by Coursera
 - Deliverables:
   - [Certificate](https://coursera.org/share/fa70ae8a9cc33cd22f69d5854881a7fe)
@@ -43,6 +44,7 @@ description: Jasmine Moore's Portfolio
   `Tableau`, `Information Visualization (INFOVIS)`, `Market Research`, `Data Analysis`, `Data Visualization`, `Qualitative Research`
 
 ## COVID-19 Data Analysis Using Python
+- Analyzed data regarding the spread of COVID-19 in developed countries.
 - Issued by Coursera
 - Deliverables:
   - [Certificate](https://coursera.org/share/4a2128b2560eba63648f41aa068fabf1)
@@ -52,6 +54,7 @@ description: Jasmine Moore's Portfolio
   `Python Programming`, `Seaborn`, `Statistics`, `Data Analysis`, `Pandas`
 
 ## Create a Sales Dashboard Using Power BI
+- Built a dashboard for sales research. Visualized sales data with interactive maps and charts.
 - Issued by Coursera
 - Deliverables:
   - [Certificate](https://coursera.org/share/9db7b2270c90ff51eadb134d89d38315)
@@ -62,6 +65,8 @@ description: Jasmine Moore's Portfolio
   `Business Intelligence`, `Microsoft Power BI`, `Sales Dashboard`, `Data Visualization`, `Interactive Maps`
 
 ## Machine Learning for Kyphosis Disease Classification
+- Applied machine learning techniques to patient data using scikit-learn.
+- Used logistic regression and random forest algorithms to evaluate a model’s ability to predict kyphosis development based on diagnostic measurements.
 - Issued by Coursera
 - Deliverables:
   - [Certificate](https://coursera.org/share/d17c1545e6fc6b13d0d105600479df85)
