@@ -9,7 +9,7 @@ description: My Professional Portfolio
 I am a freelance medical writer with 10+ years of experience in scientific research, coding, and data visualization techniques. Here are a few of my accomplishments:
 - Earned a data science fellowship—an award given to 6% of applicants.
 - Received the honors designation for excellence in completing assignments.
-- Used bioinformatic tools to analyze the gene ontology terms and biological pathways of 670 unique host-virus interactions.
+- Used bioinformatic tools to analyze the gene ontology terms and biological pathways of 650 unique host-virus interactions and 351 human genes.
 - Received a professional development grant to fund medical writing training.
 
 You can navigate my portfolio by clicking the buttons above or the links in the following table of contents.
