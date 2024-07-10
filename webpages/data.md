@@ -15,9 +15,10 @@ description: Jasmine Moore's Portfolio
 
 ## Data Science Fellowship
 - Data Science For All (DS4A) / Empowerment Honors Fellowship
-- Issued by _Correlation One_
-- 6% acceptance rate
-- Received [honors certification](https://www.credential.net/1413bc3f-9fd6-42a6-b06a-0c6f0c48ad10#gs.8x47o7) due to excellence in completing assignments
+- Awarded by _Correlation One_ with a 6% acceptance rate.
+- Performed exploratory data analysis and learned data visualization methods with Jupyter, Python, R, and SQL.
+- Completed a team project on gentrification trends in seven zip codes in the NYC metropolitan area.
+- Received [honors certification](https://www.credential.net/1413bc3f-9fd6-42a6-b06a-0c6f0c48ad10#gs.8x47o7) due to excellence in completing assignments.
 - Deliverables:
   - [Written Report](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:bbc3e7a2-3153-31e0-aa51-414ec5bf3fc1)
   - [Plotly Dashboard](https://chart-studio.plotly.com/~jasmineshanay/39/dashboard/)
@@ -26,7 +27,8 @@ description: Jasmine Moore's Portfolio
   `Python`, `Pandas`, `Numpy`, `Plotly`, `Scikit`, `matplotlib`, `Seaborn`, `SQL`, `Tableau`, `PowerBI`, `Jupyter`, `Docker`, `Data Analysis`, `Data Visualization`, `Linear Modeling`, `Data Science`, `Regression`, `Statistics`, `Business Intelligence`, `Data Extraction`, `Data transformation`, `Interpretation of Charts`, `Graphs`, `Tables`, `Information Gathering & Sufficiency`, `Hypothesis Testing`, `Statistical Inference`, `A/B Testing`
 
 ## Analyzing and Visualizing Data in Looker
-- Issued by Google Cloud Training
+- Created new metrics and built visualizations and dashboards for data-driven decision-making.
+- Issued by Google Cloud Training and Cousera
 - [Certificate](https://coursera.org/share/d45931ce03106b870d9694326d193277)
 
   ##### Skills Gained:
