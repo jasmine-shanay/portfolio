@@ -22,7 +22,7 @@ description: Jasmine Moore's Portfolio
   - [Written Report](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:bbc3e7a2-3153-31e0-aa51-414ec5bf3fc1)
   - [Plotly Dashboard](https://chart-studio.plotly.com/~jasmineshanay/39/dashboard/)
 
-  ##### Skills Gained During Fellowship:
+  #### Skills Gained During Fellowship:
   `Python`, `Pandas`, `Numpy`, `Plotly`, `Scikit`, `matplotlib`, `Seaborn`, `SQL`, `Tableau`, `PowerBI`, `Jupyter`, `Docker`, `Data Analysis`, `Data Visualization`, `Linear Modeling`, `Data Science`, `Regression`, `Statistics`, `Business Intelligence`, `Data Extraction`, `Data transformation`, `Interpretation of Charts`, `Graphs`, `Tables`, `Information Gathering & Sufficiency`, `Hypothesis Testing`, `Statistical Inference`, `A/B Testing`
 
 ## Analyzing and Visualizing Data in Looker
@@ -39,7 +39,7 @@ description: Jasmine Moore's Portfolio
   - [Dashboard PDF](http://github.com/jasmine-shanay/portfolio/webfiles/Tableau_Survey_Charts.pdf)
   - [Tableau Workbook](http://github.com/jasmine-shanay/portfolio/webfiles/Tableau_Survey_Data_Analysis.twbx)
 
-  ##### Skills Gained:
+  #### Skills Gained:
   `Tableau`, `Information Visualization (INFOVIS)`, `Market Research`, `Data Analysis`, `Data Visualization`, `Qualitative Research`
 
 ## COVID-19 Data Analysis Using Python
@@ -48,7 +48,7 @@ description: Jasmine Moore's Portfolio
   - [Certificate](https://coursera.org/share/4a2128b2560eba63648f41aa068fabf1)
   - [Dashboard](http://github.com/jasmine-shanay/portfolio/webfiles/COVID_Python_Analysis.ipynb)
 
-  ##### Skills Gained:
+  #### Skills Gained:
   `Python Programming`, `Seaborn`, `Statistics`, `Data Analysis`, `Pandas`
 
 ## Create a Sales Dashboard Using Power BI
@@ -58,7 +58,7 @@ description: Jasmine Moore's Portfolio
   - [Dashboard PDF](http://github.com/jasmine-shanay/portfolio/webfiles/Sales_Dashboard_2.pdf)
   - [Interactive Dashboard](../webfiles/Sales_Dashboard_2.pbix)
 
-  ##### Skills Gained:
+  #### Skills Gained:
   `Business Intelligence`, `Microsoft Power BI`, `Sales Dashboard`, `Data Visualization`, `Interactive Maps`
 
 ## Machine Learning for Kyphosis Disease Classification
@@ -67,5 +67,5 @@ description: Jasmine Moore's Portfolio
   - [Certificate](https://coursera.org/share/d17c1545e6fc6b13d0d105600479df85)
   - [Notebook](http://github.com/jasmine-shanay/portfolio/webfiles/Machine_Learning_Kyphosis.ipynb)
 
-  ##### Skills Gained:
+  #### Skills Gained:
   `Machine Learning`, `Data Science`, `Python Programming`, `Statistical Classification`
