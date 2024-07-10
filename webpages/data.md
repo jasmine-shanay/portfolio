@@ -11,7 +11,11 @@ description: Jasmine Moore's Portfolio
   - [Analyze Survey Data with Tableau](http://jasmine-shanay.github.io/portfolio/webpages/data#analyze-survey-data-with-tableau)
   - [COVID-19 Data Analysis Using Python](http://jasmine-shanay.github.io/portfolio/webpages/data#covid-19-data-analysis-using-python)
   - [Create a Sales Dashboard Using Power BI](http://jasmine-shanay.github.io/portfolio/webpages/data#create-a-sales-dashboard-using-power-bi)
+  - [Developing Data Models with LookML](http://jasmine-shanay.github.io/portfolio/webpages/data#developing-data-models-with-lookml)
+  - [Exploring Data Transformation with Google Cloud](http://jasmine-shanay.github.io/portfolio/webpages/data#exploring-data-transformation-with-google-cloud)
   - [Machine Learning for Kyphosis Disease Classification](http://jasmine-shanay.github.io/portfolio/webpages/data#machine-learning-for-kyphosis-disease-classification)
+  - [Manipulating Data with SQL](http://jasmine-shanay.github.io/portfolio/webpages/data#manipulating-data-with-sql)
+  - [Understanding Basic SQL Syntax](http://jasmine-shanay.github.io/portfolio/webpages/data#understanding-basic-sql-syntax)
 
 ## Data Science Fellowship
 - Data Science For All (DS4A) / Empowerment Honors Fellowship
