@@ -103,8 +103,7 @@ description: Jasmine Moore's Portfolio
 - Used LookML model files to design and build custom Explores for business users.
 - Modeled new dimensions and measures using LookML and used dashboards to combine key queries and visualizations into a one-page executive view.
 - Issued by Google Cloud
-- Deliverables:
-  - [Certificate](https://coursera.org/share/a50bd88f34ad1108f6732eaa1318b07e)
+- [Certificate](https://coursera.org/share/a50bd88f34ad1108f6732eaa1318b07e)
 
   #### Skills Gained:
   `Business Intelligence`, `Business Dashboards`, `Data Visualization`, `Derived Looker tables`, `LookML`
@@ -113,8 +112,7 @@ description: Jasmine Moore's Portfolio
 - Explored Google Cloud data management products and solutions.
 - Learned how to apply data management techniques to business use cases.
 - Issued by Google Cloud
-- Deliverables:
-  - [Certificate](https://coursera.org/share/a086edef99e51fd5b837dc10b617777f)
+- [Certificate](https://coursera.org/share/a086edef99e51fd5b837dc10b617777f)
 
   #### Skills Gained:
   `Google Cloud`, `Data Management Solutions`, `Business Intelligence`, `Business Insights`, `Looker`, `Data Storage`, `Pub/Sub`, `Dataflow`
@@ -122,8 +120,7 @@ description: Jasmine Moore's Portfolio
 ### Manipulating Data with SQL
 - Populated and managed data in relational tables and learned how to troubleshoot common SQL errors. 
 - Issued by Coursera
-- Deliverables:
-  - [Certificate](https://coursera.org/share/404c18a5bc0bdb10a51f3f7755d1e831)
+- [Certificate](https://coursera.org/share/404c18a5bc0bdb10a51f3f7755d1e831)
 
   #### Skills Gained:
   `SQL`, `Relational Tables`, `Troubleshooting`
@@ -131,8 +128,7 @@ description: Jasmine Moore's Portfolio
 ### Understanding Basic SQL Syntax
 - Learned to identify and use correct syntax when writing SQL retrieval queries.
 - Issued by Coursera
-- Deliverables:
-  - [Certificate](https://coursera.org/share/524cfc5ad56db01238048debf6cb4be7)
+- [Certificate](https://coursera.org/share/524cfc5ad56db01238048debf6cb4be7)
 
   #### Skills Gained:
   `SQL`, `SQLite`, `Retrieval Queries`, `Syntax`
