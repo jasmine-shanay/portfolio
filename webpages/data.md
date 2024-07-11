@@ -93,7 +93,7 @@ description: Jasmine Moore's Portfolio
 
 ### Analyzing and Visualizing Data in Looker
 - Created new metrics and built visualizations and dashboards for data-driven decision-making.
-- Issued by Google Cloud and Coursera
+- Issued by Google Cloud
 - [Certificate](https://coursera.org/share/d45931ce03106b870d9694326d193277)
 
   #### Skills Gained:
