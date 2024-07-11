@@ -6,7 +6,10 @@ description: Jasmine Moore's Portfolio
 
 <!--[COVID-19](https://jasmine-shanay.github.io/portfolio/webfiles/img#covid-19-analysis-using-python/)-->
 ## Contents
+#### Research Projects
   - [DS4A Honors Fellowship](http://jasmine-shanay.github.io/portfolio/webpages/data#data-science-fellowship)
+  - [Computational Chemistry Research](http://jasmine-shanay.github.io/portfolio/webpages/data#honors-research-assistantship)
+#### Course Projects
   - [Analyzing and Visualizing Data in Looker](http://jasmine-shanay.github.io/portfolio/webpages/data#analyzing-and-visualizing-data-in-looker)
   - [Analyze Survey Data with Tableau](http://jasmine-shanay.github.io/portfolio/webpages/data#analyze-survey-data-with-tableau)
   - [COVID-19 Data Analysis Using Python](http://jasmine-shanay.github.io/portfolio/webpages/data#covid-19-data-analysis-using-python)
@@ -16,6 +19,8 @@ description: Jasmine Moore's Portfolio
   - [Machine Learning for Kyphosis Disease Classification](http://jasmine-shanay.github.io/portfolio/webpages/data#machine-learning-for-kyphosis-disease-classification)
   - [Manipulating Data with SQL](http://jasmine-shanay.github.io/portfolio/webpages/data#manipulating-data-with-sql)
   - [Understanding Basic SQL Syntax](http://jasmine-shanay.github.io/portfolio/webpages/data#understanding-basic-sql-syntax)
+
+#### Research Projects
 
 ## Data Science Fellowship
 - Data Science For All (DS4A) / Empowerment Honors Fellowship
@@ -29,6 +34,13 @@ description: Jasmine Moore's Portfolio
 
   #### Skills Gained During Fellowship:
   `Python`, `Pandas`, `Numpy`, `Plotly`, `Scikit`, `matplotlib`, `Seaborn`, `SQL`, `Tableau`, `PowerBI`, `Jupyter`, `Docker`, `Data Analysis`, `Data Visualization`, `Linear Modeling`, `Data Science`, `Regression`, `Statistics`, `Business Intelligence`, `Data Extraction`, `Data transformation`, `Interpretation of Charts`, `Graphs`, `Tables`, `Information Gathering & Sufficiency`, `Hypothesis Testing`, `Statistical Inference`, `A/B Testing`
+
+## Honors Research Assistantship
+- Received a scholarship to complete a computational chemistry project on protein folding.
+- Used Amber ff99SB to determine which intramolecular interactions dominated in selected dipeptides and if the order of the amino acids makes a difference.
+- Designed and presented poster based on findings, titled "[The Effect of the Order of Amino Acids in a Small Peptide](https://github.com/jasmine-shanay/portfolio/blob/992be28ed739fd17dc6b44f1ed06dd3346f3bfb3/webfiles/Project_2015_Peptides.pdf)."
+
+#### Course Projects
 
 ## Analyzing and Visualizing Data in Looker
 - Created new metrics and built visualizations and dashboards for data-driven decision-making.
