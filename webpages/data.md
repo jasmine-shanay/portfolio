@@ -39,7 +39,7 @@ description: Jasmine Moore's Portfolio
 ### Honors Research Assistantship
 - Received a scholarship to complete a computational chemistry project on protein folding.
 - Used Amber ff99SB to determine which intramolecular interactions dominated in selected dipeptides and if the order of the amino acids makes a difference.
-- Designed and presented a poster based on findings: [The Effect of the Order of Amino Acids in a Small Peptide](https://jasmine-shanay.github.io/portfolio/webfiles/Project_2015_Peptides.pdf).
+- Presented a poster ([The Effect of the Order of Amino Acids in a Small Peptide](https://jasmine-shanay.github.io/portfolio/webfiles/Project_2015_Peptides.pdf)) on project findings.
 
   #### Skills Gained During Assistantship:
   `Python`, `Amber ff99SB`, `Gaussian Software Package`, `Jmol`, `ChemBio3D`, `Dispersion Interactions`, `Aromatic Amino Acids`
