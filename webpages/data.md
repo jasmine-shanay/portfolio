@@ -51,8 +51,8 @@ description: Jasmine Moore's Portfolio
 - Issued by Coursera
 - Deliverables:
   - [Certificate](https://coursera.org/share/fa70ae8a9cc33cd22f69d5854881a7fe)
-  - [Dashboard PDF](http://github.com/jasmine-shanay/portfolio/webfiles/Tableau_Survey_Charts.pdf)
-  - [Tableau Workbook](http://github.com/jasmine-shanay/portfolio/webfiles/Tableau_Survey_Data_Analysis.twbx)
+  - [Dashboard PDF](https://jasmine-shanay.github.io/portfolio/webfiles/Tableau_Survey_Charts.pdf)
+  - [Tableau Workbook](https://jasmine-shanay.github.io/portfolio/webfiles/Tableau_Survey_Data_Analysis.twbx)
  
   #### Skills Gained:
   `Tableau`, `Information Visualization (INFOVIS)`, `Market Research`, `Data Analysis`, `Data Visualization`, `Qualitative Research`
@@ -62,7 +62,7 @@ description: Jasmine Moore's Portfolio
 - Issued by Coursera
 - Deliverables:
   - [Certificate](https://coursera.org/share/4a2128b2560eba63648f41aa068fabf1)
-  - [Dashboard](http://github.com/jasmine-shanay/portfolio/webfiles/COVID_Python_Analysis.ipynb)
+  - [Dashboard](https://jasmine-shanay.github.io/portfolio/webfiles/COVID_Python_Analysis.ipynb)
 
   #### Skills Gained:
   `Python Programming`, `Seaborn`, `Statistics`, `Data Analysis`, `Pandas`
@@ -72,8 +72,8 @@ description: Jasmine Moore's Portfolio
 - Issued by Coursera
 - Deliverables:
   - [Certificate](https://coursera.org/share/9db7b2270c90ff51eadb134d89d38315)
-  - [Dashboard PDF](http://github.com/jasmine-shanay/portfolio/webfiles/Sales_Dashboard_2.pdf)
-  - [Interactive Dashboard](../webfiles/Sales_Dashboard_2.pbix)
+  - [Dashboard PDF](https://jasmine-shanay.github.io/portfolio/webfiles/Sales_Dashboard_2.pdf)
+  - [Interactive Dashboard](https://jasmine-shanay.github.io/portfolio/webfiles/Sales_Dashboard_2.pbix)
 
   #### Skills Gained:
   `Business Intelligence`, `Microsoft Power BI`, `Sales Dashboard`, `Data Visualization`, `Interactive Maps`
@@ -84,7 +84,7 @@ description: Jasmine Moore's Portfolio
 - Issued by Coursera
 - Deliverables:
   - [Certificate](https://coursera.org/share/d17c1545e6fc6b13d0d105600479df85)
-  - [Notebook](http://github.com/jasmine-shanay/portfolio/webfiles/Machine_Learning_Kyphosis.ipynb)
+  - [Notebook](https://jasmine-shanay.github.io/portfolio/webfiles/Machine_Learning_Kyphosis.ipynb)
 
   #### Skills Gained:
   `Machine Learning`, `Data Science`, `Python Programming`, `Statistical Classification`, `Logistic Regression`, `Random Forest Algorithm`, `Patient Data`
