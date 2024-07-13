@@ -17,7 +17,7 @@ description: Jasmine Moore's Portfolio
 
 
 ## Curriculum Vitae
-Here is a copy of my [CV](https://jasmine-shanay.github.io/portfolio/webfiles/CV_20240712.pdf) (_Current as of July 2024_).
+Here is a copy of my [CV](https://jasmine-shanay.github.io/portfolio/webfiles/IndeedCV_20240712.pdf) (_Current as of July 2024_).
 <!--[CV as of May 2024](https://acrobat.adobe.com/id/urn:aaid:sc:US:214a39eb-ef50-48c4-8c36-3543620bc554)-->
 
 ## Experiences and Skills
