@@ -12,16 +12,16 @@ description: Jasmine Moore's Portfolio
 
 ## Recent Samples
 
-[Medical Device Company - Promotion](URL)
+<!--[Medical Device Company - Promotion](URL)-->
 <!--Based on https://medicreations.com/-->
 
-[Medical Procedure - Patient Information](URL)
+<!--[Medical Procedure - Patient Information](URL)-->
 <!--Breast biopsy, cholecystectomy, or root canal-->
 
-[Diabetes Diagnosis - Patient Information](URL)
+<!--[Diabetes Diagnosis - Patient Information](URL)-->
 <!--Compare the types diabetes -->
 
-[Skin Care - Product Description](URL)
+<!--[Skin Care - Product Description](URL)-->
 <!--Hyaluronic acid/Glycolic acid/Vitamin C-->
 
 [Snowflakes: Their Formation and Individuality (PNN Article)](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:71ae02af-358b-36be-ae5b-700268bbb55e)
